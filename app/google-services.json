@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "174434954401",
+    "firebase_url": "https://mymap-a8f54.firebaseio.com",
+    "project_id": "mymap-a8f54",
+    "storage_bucket": "mymap-a8f54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174434954401:android:80f8d2ecb870fbf5",
+        "android_client_info": {
+          "package_name": "com.diploma.likharev.android.mymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174434954401-sj96me10mrom9do1upf3gsssjrh1l80s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diploma.likharev.android.mymap",
+            "certificate_hash": "63aaea88eb9955e8d5e5666a84f5a1bb894c57de"
+          }
+        },
+        {
+          "client_id": "174434954401-oc8grhvq0fmbb82e3l41ama74klqbuc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDndLlm8g9_qBIsK-f0vuFQTJbtIOwMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174434954401-oc8grhvq0fmbb82e3l41ama74klqbuc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174434954401:android:a23480b2a65ab168",
+        "android_client_info": {
+          "package_name": "com.diploma.likharev.android.marsclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174434954401-u76rraudhq39pp1gtemmvobr6vcdm5jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diploma.likharev.android.marsclient",
+            "certificate_hash": "63aaea88eb9955e8d5e5666a84f5a1bb894c57de"
+          }
+        },
+        {
+          "client_id": "174434954401-oc8grhvq0fmbb82e3l41ama74klqbuc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDndLlm8g9_qBIsK-f0vuFQTJbtIOwMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174434954401-oc8grhvq0fmbb82e3l41ama74klqbuc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mars client</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="open_chat">Чат</string>
+    <string name="delete_markers">Удалить все маркеры</string>
+    <string name="show_traffic">Показать/скрыть пробки</string>
+    <string name="exit">Выйти</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="success">Вы успешно вошли. Добро пожаловать!</string>
+    <string name="failed">Мы не можем сейчас вас пустить. Попробуйте зайти позже.</string>
+    <string name="parking">Нелегальная парковка</string>
+    <string name="trashHeep">Свалка мусора</string>
+    <string name="signOut">Вы вышли.</string>
+    <string name="action_satellite">Спутник</string>
+    <string name="action_terrain">Рельеф</string>
+    <string name="action_normal">Обычно</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mars client</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="open_chat">Chat</string>
+    <string name="delete_markers">Delete all markers</string>
+    <string name="show_traffic">Traffic jam</string>
+    <string name="exit">Sign out</string>
+    <string name="welcome">Welcome</string>
+    <string name="success">Successfully signed in. Welcome!</string>
+    <string name="failed">We couldn\'t sign you in. Please try again later.</string>
+    <string name="parking">Illegal parking</string>
+    <string name="trashHeep">Trash heep</string>
+    <string name="signOut">You have been signed out.</string>
+    <string name="action_satellite">Satellite</string>
+    <string name="action_terrain">Terrain</string>
+    <string name="action_normal">Normal</string>
+    <string name="mars_client">Mars Client</string>
+</resources>
